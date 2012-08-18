@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Metropolitano</string>
+    <string name="menu_sobre_nosotros">Sobre nosotros</string>
+    <string name="title_activity_activity_principal">Tramos</string>
+    <string name="title_activity_tramo_norte">Tramo Norte</string>
+    <string name="title_activity_tramo_sur">Tramo Sur</string>
+    <string name="content_description_tramo_sur">Imagen Tramo Sur</string>
+    <string name="content_description_tramo_norte">Imagen Tramo Norte</string>
+    <string name="content_description_tramo_centro">Imagen Tramo Centro</string>
+    <string name="title_activity_tramo_centro">Tramo Centro</string>
+
+</resources>
